@@ -1,5 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am John Caraballo
 <img src="https://img.shields.io/twitter/follow/john_m_codes?style=social">
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCV3gQMSLmjYxRlh9zuJsPtQ?label=Total%20views%20on%20my%20channel&style=social)
 
 I am a lover of all things code with a focus in JavaScript technologies. I have professional experience with the technologies listed below.
 
