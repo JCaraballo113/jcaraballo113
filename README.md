@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am John Caraballo
 ---
-<img src="https://img.shields.io/twitter/follow/john_m_codes?style=social" style="max-width: 100%;"> <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCV3gQMSLmjYxRlh9zuJsPtQ?label=Total%20views%20on%20my%20channel&style=social" style="max-width: 100%;"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCV3gQMSLmjYxRlh9zuJsPtQ?label=Total%20subscribers%20on%20my%20channel&style=social">
+<img src="https://img.shields.io/twitter/follow/john_m_codes?style=social" style="max-width: 100%;"> <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCV3gQMSLmjYxRlh9zuJsPtQ?label=Total%20views%20on%20my%20channel&style=for-the-badge"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCV3gQMSLmjYxRlh9zuJsPtQ?label=Total%20subscribers%20on%20my%20channel&style=for-the-badge">
 
 I am a lover of all things code with a focus in JavaScript technologies. I have professional experience with the technologies listed below.
 
@@ -23,3 +23,8 @@ My goal for this year is to become more involved in the Web Development technolo
 ---
 
 ### 📈 My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcaraballo113&theme=monokai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcaraballo113&theme=monokai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
