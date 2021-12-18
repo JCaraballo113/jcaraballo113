@@ -1,8 +1,25 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am John Caraballo
-<img src="https://img.shields.io/twitter/follow/john_m_codes?style=social" style="max-width: 100%;"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCV3gQMSLmjYxRlh9zuJsPtQ?label=Total%20views%20on%20my%20channel&style=social" style="max-width: 100%;">
+---
+<img src="https://img.shields.io/twitter/follow/john_m_codes?style=social" style="max-width: 100%;"> <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCV3gQMSLmjYxRlh9zuJsPtQ?label=Total%20views%20on%20my%20channel&style=social" style="max-width: 100%;"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCV3gQMSLmjYxRlh9zuJsPtQ?label=Total%20subscribers%20on%20my%20channel&style=social">
 
 I am a lover of all things code with a focus in JavaScript technologies. I have professional experience with the technologies listed below.
 
-Currently the Director of software engineering at [Covey](https://covey.io/) where we are trying to create the future for retail investors. Seriously, check it out!
+Currently the Director of software engineering at [Covey](https://covey.io/) where help investment analysts get paid for their ideas . Seriously, check it out!
 
 My goal for this year is to become more involved in the Web Development technologies through the creation of content. This includes blog posts, videos, podcasts and more!
+
+---
+### 🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg" alt="Ethereum logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" alt="Solidity logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="GraphQL logo" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="NestJS logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="VueJS logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="Postgres logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git logo" width="50" height="50">
+
+---
+
+### 📘 Technologies I am currently learning or have an interest in
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="Go logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Rust logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" alt="Ionic logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt logo" width="50" height="50">
+
+---
+
+### 📈 My GitHub Stats
