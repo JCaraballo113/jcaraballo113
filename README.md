@@ -33,7 +33,7 @@ Monokai Pro
 ---
 ### 📈 My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcaraballo113&theme=monokai&show_icons=true&hide_languages=c#,c++,java)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcaraballo113&theme=monokai&show_icons=true&layout=compact&hide=java,c#)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcaraballo113&theme=monokai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
