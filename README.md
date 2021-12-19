@@ -22,9 +22,18 @@ My goal for this year is to become more involved in the Web Development technolo
 
 ---
 
+### 🧑‍💻 My current editor theme
+
+<a href="https://monokai.pro" target="__blank"><img src="https://monokai.gallerycdn.vsassets.io/extensions/monokai/theme-monokai-pro-vscode/1.1.19/1617689615821/Microsoft.VisualStudio.Services.Icons.Default" alt="monokai logo" width="50" height="50"></a> 
+<br>
+Monokai Pro
+
+![image](https://user-images.githubusercontent.com/6374766/146658852-c350d56a-1f45-4e73-9f4a-ac581e4767c3.png)
+
+---
 ### 📈 My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcaraballo113&theme=monokai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcaraballo113&theme=monokai&show_icons=true&hide_languages=c#,c++,java)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcaraballo113&theme=monokai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
