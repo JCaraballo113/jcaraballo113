@@ -6,7 +6,7 @@ I am a lover of all things code with a focus in JavaScript technologies. I have 
 
 Currently the Director of software engineering at [Covey](https://covey.io/) where help investment analysts get paid for their ideas . Seriously, check it out!
 
-My goal for this year is to become more involved in the Web Development technologies through the creation of content. This includes blog posts, videos, podcasts and more!
+My goal for this year is to become more involved in the Web Development community through the creation of content. This includes blog posts, videos, podcasts and more!
 
 ---
 ### 🧰 Toolbox
