@@ -25,8 +25,8 @@ My goal for this year is to become more involved in the Web Development communit
 ### 🧑‍💻 My current editor theme
 
 <a href="https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme"><img src="https://beardedbear.gallerycdn.vsassets.io/extensions/beardedbear/beardedtheme/8.3.2/1690556515602/Microsoft.VisualStudio.Services.Icons.Default" alt="Bearded Theme" width="50" height="50"></a>
-<br>
-Bearded Theme
+<be>
+<a href="https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme">Bearded Theme</a>
 <br>
 
 ![image](/assets/editor.png)
