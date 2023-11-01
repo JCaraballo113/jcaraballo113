@@ -24,11 +24,11 @@ My goal for this year is to become more involved in the Web Development communit
 
 ### 🧑‍💻 My current editor theme
 
-<img src="/assets/editor.png" alt="Bearded Theme" width="50" height="50">
+<img src="https://beardedbear.gallerycdn.vsassets.io/extensions/beardedbear/beardedtheme/8.3.2/1690556515602/Microsoft.VisualStudio.Services.Icons.Default" alt="Bearded Theme" width="50" height="50">
 <br>
 Bearded Theme
 
-![image](https://user-images.githubusercontent.com/6374766/146658852-c350d56a-1f45-4e73-9f4a-ac581e4767c3.png)
+![image](/assets/editor.png)
 
 ---
 ### 📈 My GitHub Stats
