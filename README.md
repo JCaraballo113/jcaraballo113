@@ -24,9 +24,9 @@ My goal for this year is to become more involved in the Web Development communit
 
 ### 🧑‍💻 My current editor theme
 
-<a href="https://monokai.pro" target="__blank"><img src="https://monokai.gallerycdn.vsassets.io/extensions/monokai/theme-monokai-pro-vscode/1.1.19/1617689615821/Microsoft.VisualStudio.Services.Icons.Default" alt="monokai logo" width="50" height="50"></a> 
+<a href="https://monokai.pro" target="__blank"><img src="[https://monokai.gallerycdn.vsassets.io/extensions/monokai/theme-monokai-pro-vscode/1.1.19/1617689615821/Microsoft.VisualStudio.Services.Icons.Default](https://beardedbear.gallerycdn.vsassets.io/extensions/beardedbear/beardedtheme/8.3.2/1690556515602/Microsoft.VisualStudio.Services.Icons.Default)" alt="bearded logo" width="50" height="50"></a> 
 <br>
-Monokai Pro
+Bearded Theme
 
 ![image](https://user-images.githubusercontent.com/6374766/146658852-c350d56a-1f45-4e73-9f4a-ac581e4767c3.png)
 
